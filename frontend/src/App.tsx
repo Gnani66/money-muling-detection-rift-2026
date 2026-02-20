@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL
+const API_URL = "https://money-muling-detection-rift-2026-1.onrender.com"
 import { useState, useEffect, useRef, useCallback } from "react";
 import axios from "axios";
 import ForceGraph2D from "react-force-graph-2d";
